@@ -1,2 +1,2 @@
 # Ergonomics_1
-This file is organized by dr Garosi, IUMD and TUMS students can find the attachments and their homeworks 
+Dr Garosi, IUMD, and TUMS organize this file students can find the attachments and  homeworks. 
